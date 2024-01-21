@@ -1,0 +1,1 @@
+document.getElementById('Liên Hệ').innerHTML = 'xin chào';
